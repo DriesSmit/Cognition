@@ -1,0 +1,7 @@
+Tests: Test the evolutionary algorithms ability to derive a intelligence that can play a grid world game.
+
+Game:
+
+The game world consists of a 10 by 10 grid of pixels. The intelligence (blue) is one pixel big. Every few time steps food (green) and poison (red) appears on the grid. 
+
+There can only appear a max of 10 food and 10 poison at one time. The goal of the intelligence is to collect the most possible points in a given timespan. For every food the intelligence gets +2 points and for a poison -1 points. Empty areas give 0 points.

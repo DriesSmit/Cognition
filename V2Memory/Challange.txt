@@ -1,4 +1,0 @@
-Tests: Memory of previous events.
-
-Evolve intelligence to be able to display the previous result presented to it. Thus it has memory. The first input is a binary value that the intelligence must store for later use.
-The second input is also a binary value indicating when the intelligence must store the new value.
