@@ -1,8 +1,18 @@
+General AI
+----------
+
 https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+
+Markov brain
+------------
+
+https://github.com/ahnt/MABE/wiki/Brain-Markov
+http://adamilab.msu.edu/markov-network-brains/
 
 http://hintzelab.msu.edu/index.php/markov-brains/
 http://phenomena.nationalgeographic.com/2013/08/02/meet-the-animats/
 
-Markov brain
-https://github.com/ahnt/MABE/wiki/Brain-Markov
-http://adamilab.msu.edu/markov-network-brains/
+LSTM
+----
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
